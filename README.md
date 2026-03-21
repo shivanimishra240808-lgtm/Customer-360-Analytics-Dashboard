@@ -46,7 +46,7 @@ I built this project to understand how customers behave, how they spend, and whi
 - Found consistent growth pattern in monthly sales
 
 ## 📸 Dashboard Preview
-![Dashboard](Screenshot/Dashboard.png.png)
+[![Dashboard](https://github.com/shivanimishra240808-lgtm/Customer-360-Analytics-Dashboard/blob/main/5.Screenshot/Dashboard.png.png)
 
 ## 🚀 What This Project Shows
 This project reflects my ability to:
