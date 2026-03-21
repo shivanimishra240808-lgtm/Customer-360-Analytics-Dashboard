@@ -21,9 +21,6 @@ I built this project to understand how customers behave, how they spend, and whi
 - Analyzed country-wise performance (UK leading)
 - Found consistent growth pattern in monthly sales
 
-## 📸 Dashboard Preview
-![Dashboard](5.Screenshot/dashboard.png# Customer 360 Analytics Dashboard
-
 ## 📊 About the Project
 I built this project to understand how customers behave, how they spend, and which segments generate the most revenue. The goal was to simulate a real business scenario where data is used to make decisions.
 
