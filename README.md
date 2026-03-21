@@ -9,11 +9,11 @@ I built this project to understand how customers behave, how they spend, and whi
 - Power BI for dashboard creation
 
 ## 📁 Project Structure
-- Data → contains raw datasets (customers, orders, products, payments)
-- Sql → SQL queries used for analysis
-- Python → data cleaning and preprocessing script
-- Dashboard → Power BI dashboard file (.pbix)
-- Screenshots → dashboard preview images
+- data → contains raw datasets (customers, orders, products, payments)
+- sql → SQL queries used for analysis
+- python → data cleaning and preprocessing script
+- dashboard → Power BI dashboard file (.pbix)
+- screenshots → dashboard preview images
 
 ## 📌 Key Learnings
 - Identified high-value vs low-value customers
