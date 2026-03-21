@@ -68,3 +68,7 @@ This project reflects my ability to:
 - Add more advanced segmentation (RFM analysis)
 - Automate data pipeline
 - Deploy dashboard for live usage
+
+✅ Conclusion
+
+This project highlights my ability to analyze real-world data, build dashboards, and generate meaningful business insights.
