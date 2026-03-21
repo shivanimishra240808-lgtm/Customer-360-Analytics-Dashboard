@@ -22,7 +22,7 @@ I built this project to understand how customers behave, how they spend, and whi
 - Found consistent growth pattern in monthly sales
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ## 🚀 What This Project Shows
 This project reflects my ability to:
